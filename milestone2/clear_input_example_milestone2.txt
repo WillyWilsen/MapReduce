@@ -1,0 +1,8 @@
+2024-01-01 00:00 Miami Item1 10 Payment1
+2024-01-01 00:00 Miami Item2 20 Payment2
+2024-01-01 00:00 San Francisco Item3 40 Payment3
+2024-01-01 00:00 San Francisco Item4 30 Payment4
+2024-01-01 00:00 Atlanta Item5 50 Payment5
+2024-01-01 00:00 Atlanta Item6 70 Payment6
+2024-01-01 00:00 Atlanta Item7 60 Payment7
+2024-01-01 00:00 Store1 Item8 80 Payment8

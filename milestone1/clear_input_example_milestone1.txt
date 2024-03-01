@@ -1,0 +1,4 @@
+2024-01-01 00:00 Store1 A Consumer Electronics 10 Payment1
+2024-01-01 00:00 Store2 Consumer Electronic 20 Payment2
+2024-01-01 00:00 Store3 Buffalo Toys 30 Payment3
+2024-01-01 00:00 Store4 Toys 40 Payment4
