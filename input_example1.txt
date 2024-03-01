@@ -1,0 +1,1 @@
+2024-01-01\t00:00\tStore1\tA Consumer Electronics\t10\tPayment1\n2024-01-01\t00:00\tStore2\tConsumer Electronic\t20\tPayment2\n2024-01-01\t00:00\tStore3\tBuffalo Toys\t30\tPayment3\n2024-01-01\t00:00\tStore4\tToys\t40\tPayment4
