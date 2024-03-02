@@ -1,0 +1,1 @@
+2024-01-01\t09:00\tStore1\tItem1\t10\tPayment1\n2024-01-01\t09:05\tStore2\tItem2\t20\tPayment2\n2024-01-01\t09:30\tStore3\tItem3\t30\tPayment3\n2024-01-01\t09:59\tStore4\tItem4\t40\tPayment4\n2024-01-01\t10:00\tStore5\tItem5\t50\tPayment5\n2024-01-01\t10:40\tStore6\tItem6\t70\tPayment6\n2024-01-01\t11:00\tStore7\tItem7\t60\tPayment7\n2024-01-01\t11:01\tStore8\tItem8\t80\tPayment8
